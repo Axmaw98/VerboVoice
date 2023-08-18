@@ -3,7 +3,7 @@ VerboVoice allows seamless entry of prompts, generating corresponding speech, an
 
 This is a PyQt5-based graphical user interface (GUI) application that allows users to generate answers based on the entered prompt and then convert the answer from You.com's API into speech using the Edge TTS API. The application provides a user-friendly interface for entering text prompts, generating corresponding speech, and controlling playback. It utilizes the Edge TTS API for text-to-speech conversion and incorporates various GUI elements for interaction.
 
-![Screenshot](https://github.com/Axmaw98/VerboVoice/assets/90964275/38addc2f-e922-4826-9a3b-dda91668c754)
+![Screenshot](https://i.ibb.co/kqVyrCC/Screenshot.png)
 
 ## Table of Contents
 
