@@ -12,7 +12,9 @@ This is a PyQt5-based graphical user interface (GUI) application that allows use
 - [How It Works](#how-it-works)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
+- [Credit](#credit)
 - [License](#license)
+- [Copyright](#copyright)
 
 ## Features
 
