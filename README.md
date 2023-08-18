@@ -68,4 +68,6 @@ The "you" library used in this project is authored by [An Author](link-to-author
 
 This project is licensed under the [GNU General Public License version 3.0 (GPL-3.0)](https://github.com/Axmaw98/VerboVoice/blob/main/LICENSE). You are free to use, modify, and distribute the code as long as you adhere to the terms and conditions of the GPL-3.0 license. This license ensures that derivative works are also open source and under the same terms, promoting the free distribution and modification of software.
 
+## Copyright
 
+© 2023  Ahmed Kawa
